@@ -65,4 +65,12 @@
 .btn:hover{
   background: #488afa;
 }
+@media (max-width: 914px) {
+  .container{
+    padding: 10px;
+  }
+  .card {
+    width: 300px;
+  }
+}
 
